@@ -1,0 +1,51 @@
+Row Labels,Abbreviation,HRSARural,HRSASparselyPopulated,HRSAUnknown,HRSAUrban,FORHPRural,FORHPNotRural
+Alaska,AK,135,25,37,5,193,9
+Maine,ME,84,4,42,30,101,59
+Texas,TX,151,4,186,204,140,405
+Idaho,ID,46,3,27,20,43,53
+Utah,UT,17,3,17,23,25,35
+California,CA,295,2,633,905,212,1623
+Florida,FL,101,2,253,304,68,592
+Kansas,KS,22,2,35,15,43,31
+Mississippi,MS,119,2,52,46,133,86
+Montana,MT,41,2,18,7,50,18
+Oregon,OR,68,2,71,113,83,171
+South Dakota,SD,20,2,17,8,38,9
+Arizona,AZ,84,1,75,50,68,142
+Colorado,CO,67,1,51,108,75,152
+Minnesota,MN,18,1,17,46,20,62
+Missouri,MO,108,1,79,85,124,149
+New Mexico,NM,119,1,76,26,143,79
+North Dakota,ND,11,1,9,3,15,9
+Oklahoma,OK,41,1,34,24,62,38
+South Carolina,SC,104,1,56,42,91,112
+Vermont,VT,45,1,19,7,61,11
+Wyoming,WY,2,1,13,4,8,12
+Alabama,AL,79,0,29,43,52,99
+Arkansas,AR,77,0,44,19,85,55
+Connecticut,CT,23,0,80,178,12,269
+Delaware,DE,4,0,4,10,4,14
+Georgia,GA,101,0,98,71,123,147
+Hawaii,HI,37,0,15,34,42,44
+Illinois,IL,71,0,129,235,60,375
+Indiana,IN,30,0,85,101,30,186
+Iowa,IA,33,0,30,19,41,41
+Kentucky,KY,104,0,165,24,223,70
+Louisiana,LA,94,0,104,76,71,203
+Maryland,MD,52,0,34,56,33,109
+Massachusetts,MA,21,0,55,215,16,275
+Michigan,MI,73,0,126,116,134,181
+Nebraska,NB,10,0,14,28,14,38
+Nevada,NV,7,0,16,19,6,36
+New Hampshire,NH,20,0,19,17,22,34
+New Jersey,NJ,19,0,30,93,14,128
+New York,NY,113,0,196,413,81,641
+North Carolina,NC,139,0,88,58,154,131
+Ohio,OH,84,0,110,139,98,235
+Pennsylvania,PA,92,0,83,118,79,214
+Rhode Island,RI,7,0,12,35,0,54
+Tennessee,TN,121,0,38,48,113,94
+Virginia,VA,75,0,41,57,68,105
+Washington,WA,80,0,94,174,74,274
+West Virginia,WV,189,0,115,31,204,131
+Wisconsin,WI,50,0,53,37,65,75
